@@ -5,7 +5,7 @@
 
 ### This is an assesment assigned by BeyondChats
 
-### Here's the deployed version : https://beyond-chats.vercel.app/
+### Here's the deployed version (Might get delayed response due to free deployment) : https://beyond-chats.vercel.app/
 
 ### Objective of the assesment : 
 
