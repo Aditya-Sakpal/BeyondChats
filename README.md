@@ -7,22 +7,28 @@
 
 ### Here's the deployed version : https://beyond-chats.vercel.app/
 
-### Objective of the assesment 
+### Objective of the assesment : 
 
-#### Fetch Data from API:
+#### 1.) Fetch Data from API:
 Retrieve data from the provided API endpoint, ensuring you handle pagination if necessary.
 
-#### Identify Response Sources:
+#### 2.) Identify Response Sources:
 For each response and its associated sources, determine if the response content matches any of the provided sources.
 
-#### List Identified Sources:
+#### 3.) List Identified Sources:
 Compile a list of sources that contributed to each response. If no sources match, return an empty array.
 
-#### Return Citations:
+#### 4.) Return Citations:
 For each object retrieved from the API, return the list of identified sources (citations).
 
-#### User-Friendly UI (Optional):
+#### 5.) User-Friendly UI (Optional):
 Bonus points for presenting the results in a clear and user-friendly interface, allowing users to easily view the citations for each response.
+
+### Project Structure :
+#### Backend: For backend I have used FastAPI and requests module to fetch the json data from the api and send it to the frontend 
+
+#### Frontend: For frontend I have used React, TypeScript , TailWindCss and Vite for displaying the data to the users  
+
 
 ### Tech Stack Used : 
 <img alt="Coding" align="center" width="500" src="https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/cc33579a-5f8e-4c31-9a57-920d27d97fc7" >
